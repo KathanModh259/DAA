@@ -6,7 +6,7 @@ int main()
 {
     int count=0;
     // number n whose factorial needs to be find
-    int n = 35;
+    int n = 9;
     count++;
     // initialize fact variable with 1
     double fact = 1;
